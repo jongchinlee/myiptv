@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:0,Global News (1080p)
+#EXTGRP:News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:0,[BD]无线新闻台
+#EXTGRP:News
+https://epg.pw/stream/7673962ca22c9a4a0c3082d40a3374943c5d26c4113634b42306933c642ebc08.ctv
+#EXTINF:0,[HD]tvbe
+#EXTGRP:News
+https://epg.pw/stream/28b6b766268de1557e4b4cbb46a3d0b763c4d008935d9e466da5754d74e7c72a.ctv
+#EXTINF:0,[VGA]三立国际台
+#EXTGRP:News
+https://epg.pw/stream/caee12e9a6003edf4b3527015471234fb74e84b94006b903a48c45e21184f133.ctv
+#EXTINF:0,[SD]民视新闻HD
+#EXTGRP:News
+https://epg.pw/stream/0a9b2611d6fd15d90be0ec3144d0b783dd45a65ac7a15d2e85dd93860170b1af.m3u8
+#EXTINF:0,[BD]CNNHD
+#EXTGRP:News
+https://epg.pw/stream/b4c01add83341bc8823a1054c2b66e4b8d1cec51461f28a34d4ead5858851623.ctv
+#EXTINF:0,[HD]bbc news
+#EXTGRP:News
+https://epg.pw/stream/d04b84b252bce356d33001f36862ce3a6e2919ef7e57fc45d3351dc4dc402b80.ctv
+#EXTINF:0,[BD]channel newsasia
+#EXTGRP:News
+https://epg.pw/stream/20114395c5485e5428c542ade361e74c84daf5971c8d033f60da507677887152.m3u8
+#EXTINF:0,[HD]中天亚洲台
+#EXTGRP:Generic
+https://epg.pw/stream/2e039c5c47f9be7719c34c5d0ced48f66df1928d8267f1c54b71a0affcfe7154.ctv
+#EXTINF:0,[BD]tvbs aisa
+#EXTGRP:Generic
+https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
+#EXTINF:0,[HD]Astro 华丽台
+#EXTGRP:Generic
+https://epg.pw/stream/32726505109981f80ae6ca37b6ac047b314683d40fab3b8845be656e43408c10.ctv
+#EXTINF:0,[BD]凤凰香港[ipv6]
+#EXTGRP:Generic
+https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+#EXTINF:0,[BD]东森综合
+#EXTGRP:Generic
+https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
+#EXTINF:0,[VGA]台视综合
+#EXTGRP:Generic
+https://epg.pw/stream/608ea51503d13794acb7a42846160e3abe64cd4ceb0365ec180fa3859bfaffa4.ctv
+#EXTINF:0,[HD]爱奇艺
+#EXTGRP:Movie
+https://epg.pw/stream/10708ae8d58954929baf3dea85834c25391cc171b46f362d2e40a15bf961d5aa.ctv
+#EXTINF:0,[HD]TVB经典(CH305)
+#EXTGRP:Movie
+https://epg.pw/stream/8dc711987a2f05c7a671f49f2a6202b6b339e954bb4bc944ad113d330cfc23c4.ctv
+#EXTINF:0,[VGA]天映频道(MAS)
+#EXTGRP:Movie
+https://epg.pw/stream/a85a1b4e86b6d3688f1d145b81e67527c67bde2b1795c5815f1e4e337297977b.ctv
+#EXTINF:0,[SD]ASTRO AOD 311
+#EXTGRP:Movie
+https://epg.pw/stream/20c069c4d3bc758374e593c119f45ad68c84f20b5753b5fe82b48be31e2da4ff.ctv
+#EXTINF:0,[HD]tvb星河台
+#EXTGRP:Movie
+https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
+#EXTINF:0,[BD]tvbs亚洲
+#EXTGRP:Movie
+https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
+#EXTINF:0,[SD]CCM
+#EXTGRP:Movie
+https://epg.pw/stream/d2d76a1dcfd5d06dabede623e774c466e978c97c180dce8048caa4a334649c9d.ctv
+#EXTINF:0,[HD]Astro欢喜台
+#EXTGRP:Movie
+https://epg.pw/stream/1084d7c3706392b48b759606638bc2546f250a110a84527cc64ac1bbded961c2.ctv
+#EXTINF:0,[SD]ASTROAOD351
+#EXTGRP:Movie
+https://epg.pw/stream/54883ab279612233df28e4bd8dd421e21ad64c45902e7392447e3f0b83e12a8a.ctv
+#EXTINF:0,[SD]astroaod352
+#EXTGRP:Movie
+https://epg.pw/stream/8b1ad2d2ea38f82991041f3a99ba57f5b79eaf59461fd9cf803dc010bb21ee3c.ctv
+#EXTINF:0,[SD]ASTRO AOD 353
+#EXTGRP:Movie
+https://epg.pw/stream/503faadd87388a1f2cf158ca3efc8e48ced1f38952b296ab111d485d793c390e.ctv
+#EXTINF:0,[BD]8tv
+#EXTGRP:Generic
+https://epg.pw/stream/14db20dd55b7cee03b7aa736b095c1108e86712efbc04362ab0db54f0295fb62.m3u8
+#EXTINF:0,[BD]hbo hd
+#EXTGRP:Movie
+https://epg.pw/stream/4c3f7907df57bdf5e4323470e8e38ae71820361286f419340f53eab261d1a8cb.m3u8
+#EXTINF:0,[BD]CINEMAX
+#EXTGRP:Movie
+https://epg.pw/stream/75636d3f1ab012f645c415ba4ff2d4db77710f0e78d512fa9913c4aa31f13ff6.ctv
+#EXTINF:0,[HD]hbo family
+#EXTGRP:Movie
+https://epg.pw/stream/2c7a16e88b105605a30398a655ab5d1c322671647fd9b63efbaec7aa68c1c26f.ctv
+#EXTINF:0,[HD]warner tv
+#EXTGRP:Movie
+https://epg.pw/stream/747bbed203115cdac32bc80ccbfcf54ff96a5ea70119eb725fbc7e4c5c455f66.ctv
+#EXTINF:0,[HD]axn
+#EXTGRP:Movie
+https://epg.pw/stream/60d1a814f3b2abd27ed578ed604c654c1ce3e5c0931d9eaa3d5ab05c8bf85ea8.m3u8
+#EXTINF:0,[HD]axn hd
+#EXTGRP:Movie
+https://epg.pw/stream/7b3dff7cb993fafd1478d86a538cbc52e27b9f698a26f6967614b94903045fed.ctv
+#EXTINF:0,[HD]CINEMAWORLD
+#EXTGRP:Movie
+https://epg.pw/stream/7506e1994d0f220b646fc28c88df3724b7154aea454aa98a48c5f17f1c08314a.ctv
+#EXTINF:0,[HD]HitsMovies
+#EXTGRP:Movie
+https://epg.pw/stream/c9d0c15841daef7e56cfc1b7362b8552ee2b12fb0db9c7abfc701164fa0a2f33.ctv
+#EXTINF:0,[HD]Channel U
+#EXTGRP:Entertainment
+https://epg.pw/stream/47eaee5ee0e663d4c6386e2fcc0af3af1ddf896a547a80e319653b2b63e26bbb.ctv
+#EXTINF:0,[BD]astro super sport
+#EXTGRP:Sport
+https://epg.pw/stream/39060f9bfe60804a980a47bb05a4c7bdfe874769952da20077fa7a104d9fac4a.ctv
+#EXTINF:0,[SD]Astro Supersports 2
+#EXTGRP:Sport
+https://epg.pw/stream/84d8e734020c28dc21d52bbea9a47bd371bbf6e3f5bfe0e3d09f2112de4814bc.ctv
+#EXTINF:0,[SD]Astro Supersports 3
+#EXTGRP:Sport
+https://epg.pw/stream/1a411c5dbf9e75568246f7a50053c55fff719dd0bffb3d0d79823de7abad9f85.ctv
+#EXTINF:0,[BD]Astro Supersports 4
+#EXTGRP:Sport
+https://epg.pw/stream/a61e420eed9b0ab565988518eb747609e0ac98dbfc9fb5f7a427f77264826c6b.ctv
+#EXTINF:0,[HD]ช่อง sky sports premier league
+#EXTGRP:Sport
+https://epg.pw/stream/13c4d21a7c2dcd06696830736971c02c67251b33b4f1882f61164a1617997a2d.m3u8
+#EXTINF:0,[HD]DISCOVERYHD
+#EXTGRP:Documentary
+https://epg.pw/stream/ac48f1ff2ed8787f31b1a7238eca63ac29276d5a3d1f543e7cc5cd66e7ecd7f0.ctv
+#EXTINF:0,[VGA]history
+#EXTGRP:Documentary
+https://epg.pw/stream/b66374cca4c3a0299631442463817016313859827d535d6a91c12e49959fc840.m3u8
+#EXTINF:0,[BD]animal planet
+#EXTGRP:Documentary
+https://epg.pw/stream/1dac4e54ab80777a621302876fc02504a3e7fc4d46c300558a01055b670b288e.m3u8
+#EXTINF:0,[HD]dreamworks
+#EXTGRP:Cartoon
+https://epg.pw/stream/9f4c5ca9ec157beada3427c5989175419b1f9b810823128a83b1e32261627215.m3u8
+#EXTINF:0,[BD]Cartoon Network
+#EXTGRP:Cartoon
+https://epg.pw/stream/69e8558d1eee18e2d99a5e1cc0f4e0e2f0d789857a7f286dfd2b22ab55e96b90.ctv
+#EXTINF:0,[HD]NICKELODEON
+#EXTGRP:Cartoon
+https://epg.pw/stream/419d7cb5715494a23e54517591c80b0e09903c7b20a874c777ef37fd4bbada5f.ctv
+#EXTINF:0,[BD]NICKJR.USA
+#EXTGRP:Cartoon
+https://epg.pw/stream/e1ac5eaadaf1fefc2b6357f20037a8e5c35cecdd5631bffec56aac4a10f2ee9e.ctv
+#EXTINF:0,[HD]cbeebies
+#EXTGRP:Cartoon
+https://epg.pw/stream/11a33eaac104de2c4a8d264fdcf8405a96c6b9e033112db7ea7e422113b453f2.m3u8
+#EXTINF:0,[SD]Food Network
+#EXTGRP:Other
+https://epg.pw/stream/4c6215ef834f112a7f6a7466f01c6bb1b330422b57b5bbc0484ca8debe63bd62.ctv
+#EXTINF:0,[VGA]AFN
+#EXTGRP:Other
+https://epg.pw/stream/12ff02f0fd5beb069cc52bf789799dc74dccb02016b319dc1fce01cf8c47373e.ctv
